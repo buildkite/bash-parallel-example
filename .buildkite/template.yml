@@ -1,5 +1,5 @@
+# Used by the 'Add to Buildkite' button in the readme
 name: "Bash Parallel Example"
-description: "An example of how to a bash script in parallel on Buildkite"
 steps:
   - command: ".buildkite/pipeline.sh"
     label: ":pipeline:"
