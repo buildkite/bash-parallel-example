@@ -1,5 +1,6 @@
 # Used by the 'Add to Buildkite' button in the readme
 name: "Bash Parallel Example"
+description: "An parallel example repository you can use as a test project with Buildkite"
 steps:
-  - command: ".buildkite/pipeline.sh"
+  - command: "buildkite-agent pipeline upload"
     label: ":pipeline:"
