@@ -1,6 +1,6 @@
 steps:
   - label: ":console:"
     command: "script.sh"
-    parallelism: 1
+    parallelism: 2
     agents:
       queue: "${BUILDKITE_AGENT_META_DATA_QUEUE:-default}"
