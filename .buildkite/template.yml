@@ -1,7 +1,6 @@
 name: "Bash Parallel Example"
 description: "An example pipeline that runs a Bash script in parallel across multiple agents."
 emoji: ":bash:"
-color: "gray-100"
 languages:
   - "Shell"
 steps:
