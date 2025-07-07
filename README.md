@@ -1,11 +1,11 @@
 # Buildkite Parallel Bash Pipeline Example
 
-[![Build status](https://badge.buildkite.com/c265ae725b3643cc3434bbaec07c434c926df2bf3a96e18414.svg?branch=main)](https://buildkite.com/buildkite/bash-parallel-example)
+[![Build status](https://badge.buildkite.com/c265ae725b3643cc3434bbaec07c434c926df2bf3a96e18414.svg?branch=main)](https://buildkite.com/buildkite/bash-parallel-example/builds/latest?branch=main)
 [![Add to Buildkite](https://img.shields.io/badge/Add%20to%20Buildkite-14CC80)](https://buildkite.com/new)
 
 This repository is an example [Buildkite](https://buildkite.com/) pipeline for running a simple bash script in parallel across multiple agents, [script.sh](script.sh).
 
-👉 **See this example in action:** [buildkite.com/buildkite/bash-parallel-example](https://buildkite.com/buildkite/bash-parallel-example/builds/latest)
+👉 **See this example in action:** [buildkite.com/buildkite/bash-parallel-example](https://buildkite.com/buildkite/bash-parallel-example/builds/latest?branch=main)
 
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
@@ -22,4 +22,4 @@ This pipeline runs a Bash script (`script.sh`) in parallel using Buildkite’s p
 
 ## License
 
-See [Licence.md](Licence.md) (MIT)
+See [LICENSE.md](LICENSE.md) (MIT)
