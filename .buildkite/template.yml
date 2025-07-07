@@ -3,8 +3,6 @@ description: "An example pipeline that runs a Bash script in parallel across mul
 emoji: ":bash:"
 languages:
   - "Shell"
-  - "Bash"
-  - "YAML"
 steps:
   - command: "buildkite-agent pipeline upload"
     label: ":pipeline:"
